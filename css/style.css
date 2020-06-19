@@ -1,0 +1,37 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+
+}
+.navbar-nav a{
+	font-size: 20px;
+
+}
+.make{
+	background-color: #A5C422;
+	color: #fff;
+}
+.nav-item a{
+	padding: 5px;
+}
+.carousel-caption{
+	text-align: center;
+	margin-bottom: 500px;
+	color: #FFFFFF;
+	font-weight: 100%;
+
+}
+.carousel-caption h5{
+	font-size: 15px;
+
+}
+.carousel-caption h1{
+	font-size: 50px;
+
+}
+
+}
+.card-body{
+	border: none;
+}
